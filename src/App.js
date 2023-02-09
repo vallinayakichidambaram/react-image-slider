@@ -20,13 +20,7 @@ function App() {
 
   }
 
-  const list = heroes.map(hero =>
-    <li  key = {hero.id} >
-      <img src = {hero.imgUrl}
-        alt ={hero.imgName}
-        />
-    </li>
-  )
+  
   return (
     <div className='full-window'>
       <h2>Marvel Heroes</h2>
