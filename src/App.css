@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+}
+.full-window{
+  min-height:100%;
+  width: 100%;
+  margin: 0px;
+ 
+}
+
+h2{
+  text-align: center;
+}
+
+
+.left-arrow{
+  margin-top: 150px;
+}
+
+.right-arrow{
+  margin-top: 150px;
+}
+.Hero {
+  width: 200px;
+  height: 200px; 
+}
+
+div {
+  float: left;
+}
+
+
+
+img{
+  margin: 50px;
+  width: 500px;
+  height: 300px;
+  object-fit: cover;
+}
